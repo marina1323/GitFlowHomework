@@ -2,3 +2,4 @@ master1 (initial version)
 develop1
 develop2
 feature/next-release1
+feature/next-release2
