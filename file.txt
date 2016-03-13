@@ -13,3 +13,6 @@ release-1.0 3
 release-1.0 4
 develop6
 develop7
+feature/next-release2 1
+feature/next-release2 2
+feature/next-release2 3
