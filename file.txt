@@ -7,3 +7,5 @@ feature/next-release1
 feature/next-release2
 feature/next-release3
 develop5
+release-1.0 1
+release-1.0 2
