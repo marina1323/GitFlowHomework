@@ -11,3 +11,4 @@ release-1.0 1
 release-1.0 2
 feature/next-release2 1
 feature/next-release2 2
+feature/next-release2 3
