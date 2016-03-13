@@ -16,3 +16,7 @@ develop7
 feature/next-release2 1
 feature/next-release2 2
 feature/next-release2 3
+feature/future-release1
+feature/future-release2
+feature/future-release3
+feature/future-release4
